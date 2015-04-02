@@ -1,2 +1,2 @@
 # id-aide.github.io
-id-AIDE blog's
+http://id-aide.github.io id-AIDE blog's under development.
